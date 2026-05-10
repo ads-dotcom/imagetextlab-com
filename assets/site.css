@@ -484,6 +484,15 @@ p {
   font-weight: 800;
 }
 
+.screencast-video {
+  display: block;
+  width: 100%;
+  margin: 28px 0;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #10241f;
+}
+
 .pricing-page-grid,
 .support-grid {
   display: grid;
