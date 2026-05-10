@@ -1,0 +1,15 @@
+{
+  "name": "ImageTextLab",
+  "short_name": "ImageTextLab",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#f7fbf9",
+  "theme_color": "#10241f",
+  "icons": [
+    {
+      "src": "/assets/icon.svg",
+      "sizes": "96x96",
+      "type": "image/svg+xml"
+    }
+  ]
+}
